@@ -63,9 +63,9 @@ Run the app
 
 streamlit run app.py
 
-🌐 Deployment
+🌐 Deployment Link:![](https://emailclassifierapp.streamlit.app/)
 
-The model is deployed with Streamlit under the name SHIELD-IT.
+The model is deployed with Streamlit under the name emailclassifierapp
 
 Enter any email or SMS
 
@@ -94,3 +94,22 @@ Dataset: Kaggle - SMS Spam Collection
 Libraries: NLTK, Scikit-learn, Streamlit
 
 ✨ Developed with ❤️ using Machine Learning & NLP
+
+
+Deployment Screenshot
+![](https://github.com/Eshwarthota2219/EMAIL-SMS_Classifier_Using_ML-and-NLP/blob/main/Spam_Screenshot.png)
+
+![](https://github.com/Eshwarthota2219/EMAIL-SMS_Classifier_Using_ML-and-NLP/blob/main/ham_Screenshot.png)
+
+✨ Author
+
+👤 Thota Eshwar
+
+This project is part of my portfolio, showcasing the machine learning amd nlp  skills essential for data sciencist roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+--**LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/eshwar-thota-162a08327/)
+
+--**email**:[Connect with me professionally](eshwarthota2211@gmail.com)
+
+ looking forward to connecting with you!
+
