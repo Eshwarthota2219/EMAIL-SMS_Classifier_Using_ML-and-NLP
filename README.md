@@ -50,13 +50,21 @@ Deployment: Streamlit (email classifier app)
 
 Clone the repository
 
-git clone https://github.com/your-username/SHIELD-IT-Spam-Classifier.git
-cd SHIELD-IT-Spam-Classifier
+## 🚀 How to Run Locally
 
+1. Clone the repository
+   ```
+   git clone https://github.com/your-username/Eshwarthota2219/EMAIL-SMS_Classifier_Using_ML-and-NLP.git
+   cd Eshwarthota2219/EMAIL-SMS_Classifier_Using_ML-and-NLP
+2. pip install -r requirements.txt
 
-Install dependencies
+3.streamlit run Deployment_code.py
 
-pip install -r requirements.txt
+4.
+---
+✅ Replace **`your-username`** with your actual GitHub username (for example: `Eshwarthota2219`).  
+
+👉 Do you want me to prepare the **final full README.md file** (with your real repo name + deployment link + demo section + example usage), so you can directly upload it?
 
 
 Run the app
