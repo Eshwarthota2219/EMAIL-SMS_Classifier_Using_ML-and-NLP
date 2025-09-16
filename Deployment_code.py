@@ -5,6 +5,9 @@ from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 import nltk
 
+nltk.download('stopwords')
+nltk.download('punkt')
+
 # Initialize stemmer
 ps = PorterStemmer()
 
@@ -66,3 +69,4 @@ if st.button("Predict"):
             st.write(transformed_sms)
     else:
         st.warning("Please enter a message to classify.")
+
