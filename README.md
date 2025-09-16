@@ -43,7 +43,7 @@ ML Model: Multinomial Naive Bayes
 
 Vectorizer: TF-IDF
 
-Deployment: Streamlit (SHIELD-IT app)
+Deployment: Streamlit (email classifier app)
 
 
 🔧 Installation & Setup
