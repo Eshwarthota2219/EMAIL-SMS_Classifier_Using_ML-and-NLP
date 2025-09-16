@@ -63,7 +63,9 @@ Run the app
 
 streamlit run app.py
 
-🌐 Deployment Link:![](https://emailclassifierapp.streamlit.app/)
+## 🌐 Live Demo
+Try the app here: 👉 [Email/SMS Spam Classifier](https://emailclassifierapp.streamlit.app/)
+
 
 The model is deployed with Streamlit under the name emailclassifierapp
 
