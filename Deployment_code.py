@@ -7,6 +7,7 @@ import nltk
 
 nltk.download('stopwords')
 nltk.download('punkt')
+nltk.download('punkt_tab') 
 
 # Initialize stemmer
 ps = PorterStemmer()
@@ -69,4 +70,5 @@ if st.button("Predict"):
             st.write(transformed_sms)
     else:
         st.warning("Please enter a message to classify.")
+
 
